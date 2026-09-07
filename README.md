@@ -1,2 +1,2 @@
 # AOS-Installer
-AOS-Installer (aosbootstrap)
+AOS-Installer (Builder & Installer, aosbootstrap)
